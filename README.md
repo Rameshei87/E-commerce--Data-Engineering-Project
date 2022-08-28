@@ -1,4 +1,4 @@
-# E-commerce--Data-Engineering-Prpject
+# E-commerce--Data-Engineering-Project
 
 Architecture diagram
 
