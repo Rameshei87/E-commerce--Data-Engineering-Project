@@ -1,0 +1,1006 @@
+/lib64/ld-linux-x86-64.so.2
+libm.so.6
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_Jv_RegisterClasses
+_ITM_registerTMCloneTable
+libclntsh.so.19.1
+_init
+_fini
+sqlca
+ceil
+sqlcxt
+libgcc_s.so.1
+libc.so.6
+fflush
+strcpy
+exit
+readdir
+sprintf
+fopen
+perror
+closedir
+strftime
+localtime_r
+feof
+fgets
+strlen
+memset
+fputs
+fclose
+malloc
+strcat
+remove
+opendir
+getenv
+system
+atol
+localtime
+fprintf
+strcmp
+__libc_start_main
+basename
+__xstat
+_edata
+__bss_start
+_end
+GLIBC_2.2.5
+%~u!
+%vu!
+%nu!
+%fu!
+%^u!
+%Vu!
+%Nu!
+%Fu!
+%>u!
+%6u!
+%.u!
+%&u!
+UH-P
+UH-P
+<LuuH
+<Cu!H
+AWAVAUATSH
+gfff
+5.l!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+5;W!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+5cT!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+55G!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+5%?!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+5	<!
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+gfff
+D$8R\A
+L$0H
+D$(T\A
+t$ D
+[A\A]A^A_]
+AWAVAUATSH
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0(sA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+5|r 
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+t$0H
+D$(T\A
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+[A\A]A^A_]
+AWAVAUATSH
+gfff
+D$8R\A
+D$0`vA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$03wA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0JwA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0awA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0xwA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$03xA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0NxA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0ixA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0	yA
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$(T\A
+t$ D
+gfff
+D$8R\A
+D$0(yA
+D$(T\A
+t$ D
+[A\A]A^A_]
+@0H9
+%h0 
+-h0 
+[]A\A]A^A_
+%Y%m%d
+%d/%m/%Y %H:%M:%S
+%s%s
+ Error
+Error Opening configuration file 
+touch %s
+rm %s
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=1) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=2) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=3) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=4) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=6) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=7) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N in (8,9)) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N in (10,11)) and ROWNUM<=:b0)           
+select CDR_V ,ROWID  from ISP_REJECTED_CDRS where (CORRECTED_STATUS_V='R' and ROWNUM<=:b0)           
+select nvl(PARAMETER_NAME_V,' ') ,nvl(PARAMETER_VALUE_V,' ')  from CB_CONFIGURATION_PARAMS where (CODE_NUM_N>=10000 and CODE_NUM_N<=19999) order by PARAMETER_NAME_V            
+getConfigParameters::Error in allocating memory
+CCBS_BATCH_PROCS_HOME
+getConfigParameters::CCBS_BATCH_PROCS_HOME is null
+conf/global.conf
+%s%s
+ORCL_CONNECT
+getConfigParameters::ORCL_CONNECT not found in the Configuration file
+PROCESS_LOGS_PATH
+getConfigParameters::PROCESS_LOGS_PATH not found in the Configuration file
+GSMRATING
+getConfigParameters::GSMRATING not found in the Configuration file
+PROCESS_LOGS
+getConfigParameters::PROCESS_LOGS not found in the Configuration file
+REJECTED_CDR_PROCESS_LOG_PREFIX
+getConfigParameters::REJECTED_CDR_PROCESS_LOG_PREFIX not found in the Configuration file
+l_processlogpath = [%s]
+l_processlog     = [%s]
+%s%s%s
+ Log file path with prefix -%s-
+ Error while getting Configuration Parameters
+ Logger path :%s 
+/home/gsmrating/gsmrating/rating/gsm/source/reject/csourcefiles/gsmRejectStrt.c
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to connect to Oracle %d%s
+1.6311
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| main: %s%s
+Error in 	loadCbConfigurationParams function
+Error in 	getControlParamaters function
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=1) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get records from GSM_ALL_REJECTED_CDRS %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of recs of GSM_ALL_REJECTED_CDRS %d%s
+%Y%m%d%H%M%S
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to open file %s%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| GSM reject CDRs file%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Declaring the cursor for GSM_ALL_REJECTED_CDRS %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Opening the cursor for GSM_ALL_REJECTED_CDRS %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to fetch GSM record %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Closing the cursor for GSM_ALL_REJECTED_CDRS %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Removing the file %s%s
+touch %s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s|  Success file :%s%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=2) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error while taking number of GSM_ALL_REJECTED_CDRS record %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of GPRS reject CDRs:%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to open file :%s%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s|  GPRS reject File name :%s%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to update status , GSM_ALL_REJECTED_CDRS :%d%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=3) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected CDRs of MMS :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of MMS reject CDRs:%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Filename :%s%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error while fetching the rejected records :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Success file :%s%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=4) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected CDRs of SMS :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of SMS reject CDRs:%d%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=6) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected CDRs of PRBT :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of PRBT reject CDRs:%d%s
+rm %s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N=7) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of VMS reject CDRs:%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| filename :%s%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N in (8,9)) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected CDRs of TAPIN :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of TAPIN reject CDRs:%d%s
+select count(1) into :b0  from GSM_ALL_REJECTED_CDRS where ((((CORRECTED_STATUS_V='R' or (ERROR_CODE_N in (701,312) and CORRECTED_STATUS_V='N')) and REJECT_COUNT_N<99) and SERVICES_TYPE_N in (10,11)) and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected NRTRDE CDRs of TAPIN :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of NRTRDE TAPIN reject CDRs:%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| DError while fetching the rejected records :%d%s
+update GSM_ALL_REJECTED_CDRS  set CORRECTED_STATUS_V='G' where ROWID=:b1
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in update status of GSM_ALL_REJECTED_CDRS %d%s
+select count(1) into :b0  from ISP_REJECTED_CDRS where (CORRECTED_STATUS_V='R' and ROWNUM<=:b1)
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to get Number of Rejected CDRs of ISP :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Number of ISP reject CDRs:%d%s
+ filename :%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Declaring the cursor for ISP_REJECTED_CDRS %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Error in Closing the cursor for ISP_REJECTED_CDRS %d%s
+update ISP_REJECTED_CDRS  set CORRECTED_STATUS_V='G' where ROWID=:b0
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| Unable to update status , ISP_REJECTED_CDRS :%d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| loadCbConfigurationParams: %s%s
+Loading Data from CB_CONFIGURATION_PARAMS ...
+select count(1) into :b0  from CB_CONFIGURATION_PARAMS where (CODE_NUM_N>=10000 and CODE_NUM_N<=19999)
+Memory Allocation Error for table CB_CONFIGURATION_PARAMS
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| loadCbConfigurationParams: Error while declaring cursor for CB_CONFIGURATION_PARAMS : %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| loadCbConfigurationParams: Error while opening cursor for CB_CONFIGURATION_PARAMS : %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| loadCbConfigurationParams: Error while fetching cursor for CB_CONFIGURATION_PARAMS : %d%s
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| loadCbConfigurationParams: Error while closing cursor for CB_CONFIGURATION_PARAMS : %d%s
+Error: No records in CB_CONFIGURATION_PARAMS
+End of Loading Data from CB_CONFIGURATION_PARAMS.
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| getControlParamaters: %s%s
+Start of Getting control params.
+MED_BASE_GSM_CDR_DIR_V
+%-20s|%4d|%1d|%02d:%02d:%02d|%02d/%02d/%04d|%8s| getControlParamaters: Parameter -%s- not found in CB_CONFIGURATION_PARAMS table%s
+MED_BASE_GPRS_CDR_DIR_V
+MED_BASE_MMS_CDR_DIR_V
+MED_BASE_SMS_CDR_DIR_V
+MED_BASE_STK_CDR_DIR_V
+MED_BASE_PRBT_CDR_DIR_V
+TAPIN_MAIN_CDR_DIR
+TAPIN_NRTRDE_MAIN_CDR_DIR
+MED_BASE_VMS_CDR_DIR_V
+GSM_REJECTED_FILE_PREFIX_V
+GSM_REJECTED_BILLED_ACCS_FILE_PREFIX_V
+GPRS_REJECTED_FILE_PREFIX_V
+MMS_REJECTED_FILE_PREFIX_V
+SMS_REJECTED_FILE_PREFIX_V
+STK_REJECTED_FILE_PREFIX_V
+PRBT_REJECTED_FILE_PREFIX_V
+ROAMING_GSM_REJECTED_FILE_PREFIX_V
+NR_ROAMING_GSM_REJECTED_FILE_PREFIX_V
+VMS_REJECTED_FILE_PREFIX_V
+PROCESS_DIR_V
+SUCCESS_DIR_V
+End of Getting control params.
+.%04d
+_%02d_%02d_%04d
+/home/gsmrating/gsmrating/rating/gsm/source/reject/sourcefiles/generalFunctions.pc
+/home/gsmrating/gsmrating/rating/gsm/source/reject/sourcefiles/gsmRejectStrt.pc
+GCC: (GNU) 4.8.5 20150623 (Red Hat 4.8.5-39)
+.symtab
+.strtab
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+crtstuff.c
+__JCR_LIST__
+deregister_tm_clones
+register_tm_clones
+__do_global_dtors_aux
+completed.6355
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+generalFunctions.c
+sqladt
+sqltds
+sqlfpn
+sqlctx
+sqlstm
+IAPSUCC
+IAPFAIL
+IAPFTL
+sqlcud0
+nw_time.5785
+pt_time.5784
+timer.5783
+tmp_str.5787
+pc_stime.5786
+nw_time.5792
+pt_time.5791
+timer.5790
+tmp_str.5794
+pc_stime.5793
+t.5964
+globalVariables.c
+gsmRejectStrt.c
+sq0003
+sq0006
+sq0009
+sq0012
+sq0015
+sq0018
+sq0021
+sq0024
+sq0028
+sq0033
+Logger.c
+__FRAME_END__
+__JCR_END__
+_DYNAMIC
+__init_array_end
+__init_array_start
+_GLOBAL_OFFSET_TABLE_
+printf@@GLIBC_2.2.5
+ceil@@GLIBC_2.2.5
+sprintf@@GLIBC_2.2.5
+__stat
+_edata
+g_ptrAllCtrlParams
+trim
+getSystemDate
+data_start
+_IO_stdin_used
+checkLogFileDateBased
+strlen@@GLIBC_2.2.5
+main
+localtime_r@@GLIBC_2.2.5
+g_compFuncCbconfigurationparams
+memset@@GLIBC_2.2.5
+__dso_handle
+strBinarySearch
+startLogger
+readConfigurationFile
+g_traceLogFilePath
+doubleCompare
+_fini
+doNothing
+localtime@@GLIBC_2.2.5
+sub_str
+getControlParamaters
+loadCbConfigurationParams
+getNumFromConfFile
+strftime@@GLIBC_2.2.5
+roundOff
+perror@@GLIBC_2.2.5
+system@@GLIBC_2.2.5
+g_ptrCbConfigurationParams
+sqlcxt
+logger
+time@@GLIBC_2.2.5
+strcpy@@GLIBC_2.2.5
+_start
+fclose@@GLIBC_2.2.5
+__xstat@@GLIBC_2.2.5
+getStrFromConfFile
+getSystemDateTime
+_init
+openLogFile
+fputs@@GLIBC_2.2.5
+__TMC_END__
+_Jv_RegisterClasses
+fflush@@GLIBC_2.2.5
+fopen@@GLIBC_2.2.5
+atol@@GLIBC_2.2.5
+exit@@GLIBC_2.2.5
+getenv@@GLIBC_2.2.5
+malloc@@GLIBC_2.2.5
+getConfigParameters
+replaceStr
+__data_start
+_end
+sqlca
+strcmp@@GLIBC_2.2.5
+fprintf@@GLIBC_2.2.5
+getDay
+basename@@GLIBC_2.2.5
+opendir@@GLIBC_2.2.5
+__bss_start
+readdir@@GLIBC_2.2.5
+feof@@GLIBC_2.2.5
+openFileOnDate
+__libc_csu_init
+fgets@@GLIBC_2.2.5
+numBinarySearch
+closedir@@GLIBC_2.2.5
+remvZeros
+doubleBinarySearch
+stat
+_ITM_deregisterTMCloneTable
+strcat@@GLIBC_2.2.5
+g_con_str
+remove@@GLIBC_2.2.5
+__libc_csu_fini
+to_ceil
+dirExists
+__libc_start_main@@GLIBC_2.2.5
+sortStringArray
+__gmon_start__
+checkLogFile
+_ITM_registerTMCloneTable
+readDirectory
+g_cbconfigurationparamscount
